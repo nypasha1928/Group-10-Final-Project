@@ -24,3 +24,5 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 * BMI (over 30 is considered obsese)
 * Smoking status
 * Has patient ever experienced a stroke (1 for yes and 0 for no)
+
+[Stroke Prediction](https://public.tableau.com/profile/amr.salem8189#!/vizhome/StrokePrediction_16159246630950/StrokePrediction?publish=yes)
