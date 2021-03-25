@@ -27,4 +27,4 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 
 [Stroke Prediction Dashboard](https://public.tableau.com/profile/amr.salem8189#!/vizhome/StrokePredictionDashboard/StrokePredictionDash?publish=yes)
 
-[Stroke Prediction App](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/Stroke%20Prediction%20App/index.html)
+[Stroke Prediction App](https://nypasha1928.github.io/Stroke_Prediction_App.github.io/)
