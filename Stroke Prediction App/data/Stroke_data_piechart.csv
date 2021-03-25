@@ -1,0 +1,15 @@
+,Gender (No stroke),Gender (stroke),Residence_Type (No Stroke),Residence_Type (stroke),Smoking_Status (No stroke),Smoking_Status (stroke),Hypertension (No Stroke),  Hypertension (stroke),Heart_Disease (No stroke),Heart_Disease (Stroke),Ever_Married (No stroke),Ever_Married (stroke)
+Gender (Female),18335,328,,,,,,,,,,
+Gender (Male),11636,249,,,,,,,,,,
+Residence_Type (Rural),,,14932,283,,,,,,,,
+Residence (Urban),,,15046,294,,,,,,,,
+Smoking_status (Unknown),,,,,1454,29,,,,,,
+Formerly Smoked,,,,,6919,180,,,,,,
+Never Smoked,,,,,15491,256,,,,,,
+Smokes,,,,,6114,112,,,,,,
+Hypertension (No),,,,,,,26856,452,,,,
+Hypertension(Yes),,,,,,,3122,162,,,,
+Heart_Disease(No),,,,,,,,,28550,452,,
+Heart_Disease(Yes),,,,,,,,,1428,125,,
+Ever_Married(No),,,,,,,,,,,8200,60
+Ever_Married(Yes),,,,,,,,,,,21778,517
