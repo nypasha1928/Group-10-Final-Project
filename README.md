@@ -25,4 +25,4 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 * Smoking status
 * Has patient ever experienced a stroke (1 for yes and 0 for no)
 
-[Stroke Prediction](https://public.tableau.com/profile/amr.salem8189#!/vizhome/StrokePrediction_16159246630950/StrokePrediction?publish=yes)
+[Stroke Prediction Dashboard](https://public.tableau.com/profile/amr.salem8189#!/vizhome/StrokePredictionDashboard/StrokePredictionDash?publish=yes)
