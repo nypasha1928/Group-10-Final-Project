@@ -26,13 +26,66 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 * Has patient ever experienced a stroke (1 for yes and 0 for no)
 
 [Stroke Prediction Dashboard](https://public.tableau.com/profile/amr.salem8189#!/vizhome/StrokePredictionDashboard/StrokePredictionDash?publish=yes)
-
+ 
 [Stroke Prediction App]( https://nypasha1928.github.io/Stroke_Prediction_App/)
 
 ## Exploratory Data Analysis
 
 #### Variance features Distribution
 
-[image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Variance%20features%20Distribution.png)
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Variance%20features%20Distribution.png)
+
+ * We have good distribution for age .
+ * Avg glucose distribution is reasonable because the normal avg of blood in sugar is less than 140 , that may be not good this feature will not be helpful to know if diabetes have correlation between diabetes and strokes
 
 
+#### Stroke Pie Chart
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Stroke%20Pie%20Chart.png)
+ * Only 1.9% percent of people have Stroke . 
+ 
+
+#### Gender
+ ![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Stroke%20vs%20Gender.png)
+  * Stroke cases in Female are higher by 20% than Male 
+ 
+
+#### Correlation with avg glucose level 
+ ![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Age%20vs%20avg_glucose_level.png) 
+  * Avg glucose level is high among old people.
+
+ ![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Bmi%20vs%20avg_glucose_level.png)
+  * Bmi >40 have low avg glucose.
+
+### BMI
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/BMI.png)
+ * Body mass index is a value derived from the mass and height of a person.
+
+#### BMI Boxplot
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Bmi%20Boxplot.png)
+* We had many outliers.
+
+
+#### Stroke vs  Ever Married
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Stroke%20vs%20EverMarried.png)
+* More stroke cases among Married or was Married people.
+
+
+#### Stroke vs Smoking status
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Stroke%20vs%20Smoking%20Status.png)
+ * Being a smoker or a fomerly smoker increases yout risk of having a stroke.
+
+
+#### Stroke vs Residence type
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Stroke%20vs%20Residence%20type.png)
+ * The Stroke cases for the people who live in Urban are  50% percent higher that who live in Rural .
+
+
+
+#### Stroke vs Heart Disease
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Stroke%20vs%20Heart%20Disease.png)
+ * Most people who have had a stroke do not have any heartdisease, but that does not prevent it being an influential factor. 
+
+
+#### Stroke vs Hypertension 
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Stroke%20vs%20Hypertention.png)
+ * 11% percent of the Stroke cases had Hypertension. 
