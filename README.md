@@ -26,3 +26,11 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 * Has patient ever experienced a stroke (1 for yes and 0 for no)
 
 [Stroke Prediction Dashboard](https://public.tableau.com/profile/amr.salem8189#!/vizhome/StrokePredictionDashboard/StrokePredictionDash?publish=yes)
+
+[Stroke Prediction App]( https://nypasha1928.github.io/Stroke_Prediction_App/)
+
+## Exploratory Data Analysis
+
+### Variance features Distribution
+
+
