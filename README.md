@@ -31,6 +31,8 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 
 ## Exploratory Data Analysis
 
-### Variance features Distribution
+#### Variance features Distribution
+
+[image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Variance%20features%20Distribution.png)
 
 
