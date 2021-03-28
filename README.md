@@ -29,7 +29,7 @@ For our final project, well use a dataset from kaggle to see if we can predict i
  
 [Stroke Prediction App]( https://nypasha1928.github.io/Stroke_Prediction_App/)
 
-![Stroke Presentation](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/Resources/Stroke%20Prediction.pdf)
+[Stroke Presentation](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/Resources/Stroke%20Prediction.pdf)
 ## Exploratory Data Analysis
 
 #### Variance features Distribution
