@@ -94,13 +94,13 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 ### Classification Models
 
 ##### SVM
-![image]()
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/SVM.png)
 
 ##### Random Forset Classifier
-![image]()
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Random%20Forest%20Classifier.png)
 
 ##### Logistic Regression 
-![image]()
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Logistic%20Regression.png)
 
 ##### ROC Curves for Logistic Regression 
-![image]()
+![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/ROC%20Curves%20for%20LR.png)
