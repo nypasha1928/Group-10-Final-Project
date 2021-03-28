@@ -89,3 +89,18 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 #### Stroke vs Hypertension 
 ![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Stroke%20vs%20Hypertention.png)
  * 11% percent of the Stroke cases had Hypertension. 
+
+
+### Classification Models
+
+##### SVM
+![image]()
+
+##### Random Forset Classifier
+![image]()
+
+##### Logistic Regression 
+![image]()
+
+##### ROC Curves for Logistic Regression 
+![image]()
