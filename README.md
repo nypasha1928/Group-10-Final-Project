@@ -43,12 +43,17 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 * Visual Studio Code
 * Google Slides
 * Stroke Prediction data from Kaggle and Analytics Vidhya
+
 ## Visualizations
+
 [Stroke Prediction (Total Data Comparison) Dashboard](https://public.tableau.com/profile/amr.salem8189#!/vizhome/StrokePredictionDashboard/StrokePredictionDash?publish=yes)
+
 [Stroke Prediction (Filtered Stroke Data) Dashboard](https://public.tableau.com/profile/jared.clarke#!/vizhome/Stoke_data_features/Dashboard2?publish=yes)
+
 [Stroke Prediction App]( https://nypasha1928.github.io/Stroke_Prediction_App/)
 
 [Stroke Presentation](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/Stroke_prediction_Final_presentation.pdf)
+
 ## Exploratory Data Analysis
 
 #### Variance features Distribution
@@ -61,9 +66,11 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 
 #### Stroke Pie Chart
 ![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Stroke_breakdown_total.png)
+ 
  * Only 1.9% percent of people in the data set had a stroke. 
  
 #### Age
+
 ![](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/avg_age.png)
 * Average age of people with strokes was ~ 68 years old. 
 
