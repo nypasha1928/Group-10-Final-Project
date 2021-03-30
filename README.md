@@ -78,13 +78,11 @@ For our final project, well use a dataset from kaggle to see if we can predict i
  ![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Age%20vs%20avg_glucose_level.png) 
   * Avg glucose level is high among old people.
 
- ![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Bmi%20vs%20avg_glucose_level.png)
-  * Bmi >40 have low avg glucose.
-
-### BMI
+#### BMI
 ![image](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/BMI.png)
+![](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/BMI%20vs%20Avg_glucose.png)
  * Body mass index is a value derived from the mass and height of a person.
-
+ * Bmi and average glucose don't seem to correlate.
 
 #### Stroke vs Ever Married
 ![](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/ever_married_stroke.png)
@@ -113,7 +111,10 @@ For our final project, well use a dataset from kaggle to see if we can predict i
 #### Stroke vs Hypertension 
 ![](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/stroke_HYPERTENSION.png)
  * Same goes for hypertension as with heart disease. Non-strokes may just be over-represented 
-
+#### Correlation 
+![](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Heatmap%20correlation.png)
+![](https://github.com/nypasha1928/Group-10-Final-Project/blob/main/image/Multiple_linear_regression.png)
+* According to the heatmap BMI has a weak correlation to stroke, but has a strong correlation according to a multiple linear regression.
 
 ## Classification Models
 
